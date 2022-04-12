@@ -1,7 +1,6 @@
 # **my-notes**
 ## **About my self**
-My name Mohammad Alhaj I'm studed mechanical engineering and now I studying programming JS.
-
+My name is Mohammad Alhaj I'm studied mechanical engineering and now I studying programming JS because I'm very interested in programming.
 ## **The summary the pragraph**
 ![](https://www.marinespecies.org/images/news/video-tutorial-image_details.jpg)
 
